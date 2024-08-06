@@ -7,7 +7,10 @@
   </h1>
   
   <p align="center">
-    <img src="https://komarev.com/ghpvc/?username=RafaKammler" alt="RafaKammler" />
+  <img
+    src="https://komarev.com/ghpvc/?username=RafaKammler"
+    alt="RafaKammler"
+  />
     <a href="https://github.com/RafaKammler/RafaKammler/pulse" alt="Activity">
       <img src="https://img.shields.io/github/commit-activity/m/RafaKammler/RafaKammler" />
     </a>
