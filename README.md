@@ -38,7 +38,7 @@
 
   <h2 align="center"><font color ="#D6780B"> More about me</font></h2>
 <table align="right">
-    <tr><td align="center"> <img src="world.gif" width=20/> Languages </td></tr>
+    <tr><td> <img src="world.gif" width=15/> Languages <img src="world.gif" width=15/></td></tr>
     <tr><td align="center"> 🇺🇸 English <p>★★★☆☆</p></td></tr>
     <tr><td align="center"> 🇧🇷 Portuguese <p>★★★★★</p></td></tr>
     <tr><td align="center" colspan="3"> 🇪🇸 Spanish <p>★★☆☆☆</p></td></tr>
