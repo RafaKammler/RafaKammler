@@ -49,6 +49,7 @@
   </p>
   <br><br>
   <br><br>
+  <br><br>
   <h2 align="center"><font color ="#D6780B"> Knowledges</font></h2>
   <p align="center">
     <img src="https://skillicons.dev/icons?i=py,docker,git,github,sqlite,linux,aws" />
