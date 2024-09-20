@@ -90,4 +90,4 @@
   </div>
   
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=RafaKammler&show_icons=true&rank_icon=github&theme=radical&layout=compact#gh-dark-mode-only" width=375>
-  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RafaKammler&layout=compact&theme=radical" width=375>
+  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RafaKammler&layout=compact&theme=radical&hide=Astro,Typescript" width=375>
